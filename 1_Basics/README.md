@@ -2,10 +2,10 @@
 
 ## Installation 
 
-[ ] Check if installed
+[x] Check if installed
 
-[ ] Check version 
+[x] Check version 
 
-[ ] Verify Path
+[x] Verify Path
 
 ## Hello World File
