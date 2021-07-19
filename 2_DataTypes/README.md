@@ -8,15 +8,15 @@
 
 ## Arrays ( [] ) 
 
-[ ] 
+[x] 
 
 ## Dictionary ( {} ) 
 
-[ ]
+[x]
 
 ## Tuple ( (,) ) 
 
-[ ] 
+[x] 
 
 [ ] The ,= operator
 
